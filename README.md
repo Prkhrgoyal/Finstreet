@@ -5,3 +5,5 @@ Stock: IRCON International Ltd (IRCON.NS)
 
 Pipeline:
 FYERS Data → Features → ML Model → Signals → Paper Trades → Walk-Forward Backtest
+
+Author: Prakhar
